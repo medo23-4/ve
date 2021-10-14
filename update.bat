@@ -1,0 +1,1 @@
+bash -c "cd var/mobile/ProtonFile.github.io; ./update.sh"

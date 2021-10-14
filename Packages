@@ -1,0 +1,93 @@
+Package: com.protonfile.ShowAllApps
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Addons (Apps Manager)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs//com.protonfile.ShowAllApps_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4754
+MD5sum: b18fd30c087e1bc97f05a7aa45373670
+SHA1: 28de199f24bad0dd76bd8fd5192138b703fa13a4
+SHA256: 5fef2af30f99e912d6c10f668a7ced873c7cd12fc986b1443aeb92c7ade2e800
+SHA512: 20dc236fc6ad4ced3b2c9991dfe23ebb1c649563d2a96b25e9e111a4a7e7e393a173a8fd0b9b135fdec00e68414db85d5049c508c37730e3693e66e505dd04b8
+Homepage: https://neutronfile.org/
+Description: Show All Apps in utilities Apps Manager
+Name: Show All Apps
+Author: NeutronFile
+Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
+
+Package: com.protonfile.ShowAllApps
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Addons (Apps Manager)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Installed-Size: 744
+Depends: mobilesubstrate
+Filename: ./debs//com.protonfile.ShowAllApps_0.0.2-1+debug_iphoneos-arm.deb
+Size: 191508
+MD5sum: 71fd65eacdc170d167c22dc226ab6cce
+SHA1: 5a6d0243fbf2ee1a8073a029d540376003ab2bc8
+SHA256: b7920adba75f41e1f815fd18925ee27343f4fa954096f0fb58909cd8f3438e66
+SHA512: 4bff570d2f59813f39e8b4900b9e952fbaa9565afd3463d26ec6475acfaf06a380b9d65cbf810f5665018175d515872a2a499eb8a31bf110b8cf097b0e71256a
+Homepage: https://neutronfile.org/
+Description: Show All Apps in utilities Apps Manager
+Name: Show All Apps
+Author: NeutronFile
+Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
+
+Package: com.protonfile.jbzcarrier
+Architecture: iphoneos-arm
+Version: 1.0-1E
+Section: Addons (Zeppelin)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs//com.protonfile.jbzcarrier_1.0-1E_iphoneos-arm.deb
+Size: 8658
+MD5sum: 471271803546d2d25b56c947ec130af5
+SHA1: b66a6e349115033212e991d5f8f636aa4df328b0
+SHA256: 1b0a495e3ade71770c313db1695ed49aa6385aa9d9a3ae2aacca83050c4065e5
+SHA512: c53cf7d88e8544d616c7ee30eac5e9ed2dc8ef8f31e8daf9484f92f8cd18afcc081d7a28707d67a17c66445bdd22ae550d0513ff2d518aab5f713a6b5b208a58
+Homepage: http://neutronfile.org/
+Description: Jailbreak zeppelin carrier requests
+Name: Jailbreak carrier
+Author: NeutronFile <neutronfile19@icloud.com>
+Depiction: https://ProtonFile.github.io/depic/jbzcarrier.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+
+Package: com.protonfile.jbzcarrier
+Architecture: iphoneos-arm
+Version: 1.1-1E
+Section: Addons (Zeppelin)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs//com.protonfile.jbzcarrier_1.1-1E_iphoneos-arm.deb
+Size: 12022
+MD5sum: 14c1c6b84c81b960fb27b18a9f5ff96b
+SHA1: 11ba5c6e8bf6c7507209ab8089f310fa2046fa76
+SHA256: c4dc6053a5a8b8a2b300cc851603251f3fd6527587ff178da175b926d3aa29e2
+SHA512: 3fec52d7f70246d09c7b69b107b1011725f2731a6ff4e7f4d6bf52cfcd1b853f3b54a1c2a727581b9272f61d6867ae51cc1b8477a175b63c09d01f596e5418ae
+Homepage: http://neutronfile.org/
+Description: Jailbreak zeppelin carrier requests
+Name: Jailbreak carrier
+Author: NeutronFile <neutronfile19@icloud.com>
+Depiction: https://ProtonFile.github.io/depic/jbzcarrier.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+
+Package: com.protonfile.newtermtm
+Architecture: iphoneos-arm
+Version: 0.0.2E
+Section: Tweaks
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs//com.protonfile.newtermtm_0.0.2E_iphoneos-arm.deb
+Size: 30020
+MD5sum: cc3e7bf4e18e572f8904aa642464310e
+SHA1: eed5811d690b018e5188136b40a886342223075b
+SHA256: ed97ba5ca9be19dc8500ec3fc78c0d9f4bbbcc5e7222376b63472a56e64914f6
+SHA512: d61b0a43fd5b81a928e772f9c70f3c4e31df89d11127bf161f30e484a8a58572d903e5dfd15a55b4020461133d7e8b0dec6f510459854c261f2207c7083b6337
+Description: custom NewTerm color schemes with ansi color codes
+Depiction: https://ProtonFile.github.io/depic/newtermtm.html
+Name: NewTerm Theme Manager
+Author: NeutronFile <neutronfile19@hotmail.com>
+

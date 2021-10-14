@@ -1,0 +1,11 @@
+Origin: medo Repo
+Label: medo
+Suite: stable
+Version: 1.0
+Codename: medo
+Architecture: iphoneos-arm
+Components: master
+Description: medo Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
+MD5Sum:
+ 5486c327beb0ac2991ebc357bfefa07c 3990 Packages
+ 7037b440b201b201c0257038b3a180e5 1613 Packages.bz2
